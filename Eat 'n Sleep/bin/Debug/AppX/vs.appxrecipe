@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DIMA</Machine>
+    <WindowsUser>Vlad</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3bf0a944-b6b7-4f44-b2f5-5e9c2fca050d</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Eat %27n Sleep\Eat %27n Sleep\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>389F210780BF1C297612309C05E3614C3CB4A86B45258749A51A407CF84D7F1A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3bf0a944-b6b7-4f44-b2f5-5e9c2fca050d_1.0.0.0_neutral__r4gzqp0nkbhc6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3bf0a944-b6b7-4f44-b2f5-5e9c2fca050d_r4gzqp0nkbhc6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3bf0a944-b6b7-4f44-b2f5-5e9c2fca050d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Vlad</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Eat %27n Sleep\Eat %27n Sleep\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-02T20:09:16.437</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Eat %27n Sleep\Eat %27n Sleep\bin\Debug\Eat %27n Sleep.exe">
+      <PackagePath>Eat %27n Sleep.exe</PackagePath>
+      <Modified>2014-11-03T10:22:07.325</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Eat %27n Sleep\Eat %27n Sleep\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Eat %27n Sleep\Eat %27n Sleep\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Eat %27n Sleep\Eat %27n Sleep\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Eat %27n Sleep\Eat %27n Sleep\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Eat %27n Sleep\Eat %27n Sleep\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-02T19:59:10.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Eat %27n Sleep\Eat %27n Sleep\bin\Debug\View\MainPage.xbf">
+      <PackagePath>View\MainPage.xbf</PackagePath>
+      <Modified>2014-11-02T19:59:10.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Eat %27n Sleep\Eat %27n Sleep\bin\Debug\Eat %27n Sleep.xr.xml">
+      <PackagePath>Eat %27n Sleep.xr.xml</PackagePath>
+      <Modified>2014-11-02T19:59:07.955</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Eat %27n Sleep\Eat %27n Sleep\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-02T20:09:16.285</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

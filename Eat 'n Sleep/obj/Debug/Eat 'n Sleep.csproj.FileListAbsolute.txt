@@ -1,0 +1,52 @@
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\bin\Debug\App.xbf
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\bin\Debug\View\MainPage.xbf
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\bin\Debug\Eat 'n Sleep.xr.xml
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\bin\Debug\Eat 'n Sleep.exe
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\bin\Debug\Eat 'n Sleep.pdb
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\bin\Debug\resources.pri
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\bin\Debug\AppxManifest.xml
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\bin\Debug\Eat 'n Sleep.build.appxrecipe
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\App.g.i.cs
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\App.g.cs
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\View\MainPage.g.i.cs
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\View\MainPage.g.cs
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\XamlTypeInfo.g.cs
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\App.xaml
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\View\MainPage.xaml
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\App.xbf
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\View\MainPage.xbf
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\XamlSaveStateFile.xml
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\Eat 'n Sleep.exe
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\Eat 'n Sleep.pdb
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\priconfig.xml
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\priconfig.xml.intermediate
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\layout.resfiles
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\layout.resfiles.intermediate
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\resources.resfiles
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\resources.resfiles.intermediate
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\pri.resfiles
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\pri.resfiles.intermediate
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\qualifiers.txt
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\qualifiers.txt.intermediate
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\vlad\documents\visual studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\ProjectArchitectures.txt
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\View\SearchRestaurant.g.i.cs
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\View\SearchRestaurant.g.cs
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\View\SearchRestaurant.xaml
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\View\SearchRestaurant.xbf
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\App.g.i.cs
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\App.g.cs
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\View\MainPage.g.i.cs
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\View\MainPage.g.cs
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\View\SearchRestaurant.g.i.cs
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\View\SearchRestaurant.g.cs
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\App.xaml
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\View\MainPage.xaml
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\View\SearchRestaurant.xaml
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\App.xbf
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\View\MainPage.xbf
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\View\SearchRestaurant.xbf
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\XamlSaveStateFile.xml
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\Eat 'n Sleep.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Eat 'n Sleep\Eat 'n Sleep\obj\Debug\Eat 'n Sleep.pdb

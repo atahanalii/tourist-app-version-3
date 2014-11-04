@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<hotels>
+  <hotel name="Vlad">
+    <adress street="astersvej 17"/>
+    <description>best hotel</description>
+
+    <hotel name="Ali"/>
+    <adress street="astersvej 18"/>
+    <description>nice hotel</description>
+
+
+    <hotel name="Prayash"/>
+    <adress street="astersvej 19"/>
+    <description>great hotel</description>
+
+  </hotel>
+</hotels>
+

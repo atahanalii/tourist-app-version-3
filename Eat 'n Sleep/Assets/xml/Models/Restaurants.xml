@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<restaurants>
+  <restaurant name="Vlad">
+    <address street="astersvej 17"/>
+   <imageURL>/Assets/Restaurants/test.jpg</imageURL>
+    <description>avast matee</description>
+
+    <restaurant name ="Ali">
+      <address street="astersvej 18"/>
+      <imageURL>/Assets/Restaurants/test.jpg</imageURL>
+      <description>nice restaurant</description>
+
+      <restaurant name="Prayash">
+        <address street="astersvej 19"/>
+        <imageURL>/Assets/Restaurants/test.jpg</imageURL>
+        <description>great restaurant</description>
+
+     
+      </restaurant>
+    </restaurant>
+  </restaurant>
+</restaurants>
